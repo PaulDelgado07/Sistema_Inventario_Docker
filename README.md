@@ -161,3 +161,5 @@ Los reportes pueden mostrarse como:
 
 > Mientras mejor sea la presentación, mayor puntuación podrá obtener el proyecto.
 MARLON OMAR SALAZAR ALVARADO
+MarlitoPro2005
+tumbalacasamami
