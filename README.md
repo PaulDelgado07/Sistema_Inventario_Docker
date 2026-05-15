@@ -151,7 +151,7 @@ Debe incluir:
 
 ---
 
-# Formato de Presentación de Reportes
+# Formato de Presentación de Reportes.
 
 Los reportes pueden mostrarse como:
 
@@ -160,3 +160,4 @@ Los reportes pueden mostrarse como:
 - Archivos exportados en formato CSV
 
 > Mientras mejor sea la presentación, mayor puntuación podrá obtener el proyecto.
+MARLON OMAR SALAZAR ALVARADO
